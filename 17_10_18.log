@@ -1,0 +1,14 @@
+[ 2017-10-18T17:46:52+08:00 ] 119.96.178.166 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000958s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-10-18T18:00:37+08:00 ] 183.14.30.84 /Template/web/greendvd/js/maps/swiper.jquery.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000881s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+ERR: 无法加载模块:Template
+
